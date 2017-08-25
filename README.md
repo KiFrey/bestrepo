@@ -1,8 +1,8 @@
 # bestrepo
 muokattu
-uusi rivi 1
-2
-3
+Toinen uusi rivi 1
 4
+5
+6
 
 
